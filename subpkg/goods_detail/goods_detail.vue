@@ -1,6 +1,6 @@
 <template>
 	<view>
-		my
+		g0oods
 	</view>
 </template>
 
