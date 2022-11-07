@@ -56,7 +56,8 @@
             "minified" : false,
 			"checkSiteMap" : false
         },
-        "usingComponents" : true
+        "usingComponents" : true,
+		"requiredPrivateInfos": ["getLocation", "chooseLocation", "chooseAddress"]
     },
     "mp-alipay" : {
         "usingComponents" : true
